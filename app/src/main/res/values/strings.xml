@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YouTubeAccessibility</string>
+    <string name="accessibility_service_description">Capture user interactions in YouTube app</string>
+</resources>
